@@ -17,7 +17,7 @@ def add(x, y):
     Returns
     -------
     float
-        Return sum x and y
+        Return added x and y
     '''
     return x + y
 
@@ -36,7 +36,7 @@ def sub(x, y):
     Returns
     -------
     float
-        return subract x from y
+        return subracted x from y
     '''
     return x - y
 
@@ -55,7 +55,7 @@ def mul(x, y):
     Returns
     -------
     float
-        return multiply x and y
+        return multiplied x and y
     '''
     return x * y
 
@@ -74,7 +74,7 @@ def div(x, y):
     Returns
     -------
     float
-        return x divid by y
+        return x divided by y
     '''
     return x / y
 
