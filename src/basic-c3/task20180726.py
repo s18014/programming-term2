@@ -115,7 +115,7 @@ def main():
     None
     '''
     global cur_pos
-    print("サイコロしよっか")
+    print("スゴロクしよっか")
     while True:
         input("エンターでサイコロを降る")
         d = shake_dice()
